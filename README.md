@@ -59,4 +59,4 @@ The following Data Sources were used below:
     - `SQL_Table` folder:
         - contains all nine tables created in pgAdmin with PostgreSQL
     - [Project Report document](./Project_Report.pdf):
-        - contains sample queries 
+        - contains detailed project description and sample PostgreSQL queries in pgAdmin
