@@ -24,7 +24,7 @@ The following Data Sources were used below:
 
 - [uNoGS API](https://rapidapi.com/unogs/api/unogs/endpoints)
     - Method: API Extraction
-    - Used For: Collecting movies on Netflix in released in the United States which have an IMDb rating greater than or equal to 7
+    - Used For: Collecting movies on Netflix in released in the United States which have an IMDb rating between 7 and 10
 
 - [Google Search Engine](https://www.google.com/search?&q=)
     - Method: Webscraping
@@ -56,5 +56,5 @@ The following Data Sources were used below:
         - contains ERD and schema
     - `SQL_Table` folder:
         - contains all nine tables created in pgAdmin with PostgreSQL
-    - [Project Report document](./Project_Report.pdf):
+    - [Project Report document](https://github.com/Latha-G/ETL-Project/blob/master/Project%20Report.pdf):
         - contains detailed project description and sample PostgreSQL queries in pgAdmin
