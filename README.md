@@ -5,7 +5,7 @@
 Dianne Jardin**e**z, Aas**t**ha Arora, Swarna **L**atha
 
 ## Project Summary
-The objective of this project was to extract data from websites and available  APIs. The following datasets were then transformed by cleaning, joining, and filtering into seven tables. The object-relational database (PostgreSQL) was used to load the datasets into pgAdmin.
+The objective of this project was to extract data from websites and available  APIs. The following datasets were then transformed by cleaning, joining, and filtering into nine tables. The object-relational database, PostgreSQL, was used to load the datasets into pgAdmin.
 
 ## Finding Data
 
@@ -33,9 +33,29 @@ The following Data Sources were used below:
 ## Data Cleanup & Analysis
 
 - Data extracted were formated in CSV and JSON files
-- The following datasets were then transformed by cleaning, joining, and filtering into seven tables
-- The object-relational database (PostgreSQL) was used to load the datasets into pgAdmin. A relational database was selected as the data was in a structured format
+- The following datasets were then transformed by cleaning, joining, and filtering into nine tables
+- The object-relational database, PostgreSQL, was used to load the datasets into pgAdmin. A relational database was selected as the data was in a structured format
 
 
 ## Project Report
 [Project Report document](./Project_Report.pdf)
+
+- **E**xtract: 
+    - `Google scraping.ipynb`: 
+        - contains IMDB website and Google Search Engine Webscraping
+    - `netflix_high_imdb_rated(uNoGS api).ipynb`:
+        - contains IMDB website Webscraping, OMDb API, and uNoGS API
+    -  `streaming_options(utelly api).ipynb`:
+        - contains Utelly API
+
+- **T**ransform:
+    - `Transform.ipynb`:
+        - contains all datasets that were transformed into nine tables
+
+- **L**oad: the final database, tables/collections, and why this was chosen.
+    - `SQL` folder:
+        - contains ERD and schema
+    - `SQL_Table` folder:
+        - contains all nine tables created in pgAdmin with PostgreSQL
+    - Project Report:
+        - contains sample queries 
