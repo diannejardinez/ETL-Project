@@ -38,8 +38,6 @@ The following Data Sources were used below:
 
 
 ## Project Report
- [Project Report document](./Project_Report.pdf)
-
 
 - **E**xtract: 
     - `Google scraping.ipynb`: 
