@@ -1,0 +1,51 @@
+top_imdb
+-
+    imdb_id  VARCHAR  PK
+movie_title  VARCHAR
+
+movie
+-
+    imdb_id  VARCHAR  PK FK >- top_imdb.imdb_id
+  imdb_rank  INT
+      title  VARCHAR
+       year  INT
+    runtime  DECIMAL
+      rated  VARCHAR
+imdb_rating  DECIMAL
+production   VARCHAR
+
+movie_actor
+-
+    imdb_id  VARCHAR  PK FK >- top_imdb.imdb_id
+      actor  VARCHAR
+
+movie_director
+-
+     imdb_id  VARCHAR  PK FK >- top_imdb.imdb_id
+    director  VARCHAR
+
+streaming_service
+-
+  service_id  VARCHAR  PK
+service_name  VARCHAR
+
+google_movie_streaming
+-
+          id  INT PK
+     imdb_id  VARCHAR  FK >- top_imdb.imdb_id
+  service_id  VARCHAR  FK >- streaming_service.service_id
+       price  VARCHAR
+
+utelly_movie_streaming
+-
+          id  INT PK
+     imdb_id  VARCHAR  FK >- top_imdb.imdb_id
+  service_id  VARCHAR  FK >- streaming_service.service_id
+
+netflix_movie
+-
+         id  INT      PK
+    imdb_id  VARCHAR  FK >- top_imdb.imdb_id
+      title  VARCHAR
+
+

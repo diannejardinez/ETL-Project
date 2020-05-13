@@ -1,0 +1,218 @@
+imdb_id,imdb_rank,title,year,runtime,rated,imdb_rating,production
+tt0111161,1,The Shawshank Redemption,1994,142,R,9.3,Columbia Pictures
+tt0068646,2,The Godfather,1972,175,R,9.2,Paramount Pictures
+tt0071562,3,The Godfather: Part II,1974,202,R,9.0,Paramount Pictures
+tt0468569,4,The Dark Knight,2008,152,PG-13,9.0,Warner Bros. Pictures/Legendary
+tt0050083,5,12 Angry Men,1957,96,Approved,8.9,Criterion Collection
+tt0108052,6,Schindler's List,1993,195,R,8.9,Universal Pictures
+tt0167260,7,The Lord of the Rings: The Return of the King,2003,201,PG-13,8.9,New Line Cinema
+tt0110912,8,Pulp Fiction,1994,154,R,8.9,Miramax Films
+tt0060196,9,"The Good, the Bad and the Ugly",1966,178,R,8.8,United Artists
+tt0120737,10,The Lord of the Rings: The Fellowship of the Ring,2001,178,PG-13,8.8,New Line Cinema
+tt0137523,11,Fight Club,1999,139,R,8.8,20th Century Fox
+tt0109830,12,Forrest Gump,1994,142,PG-13,8.8,Paramount Pictures
+tt1375666,13,Inception,2010,148,PG-13,8.8,Warner Bros. Pictures
+tt0080684,14,Star Wars: Episode V - The Empire Strikes Back,1980,124,PG,8.7,Twentieth Century Fox
+tt0167261,15,The Lord of the Rings: The Two Towers,2002,179,PG-13,8.7,New Line Cinema
+tt0133093,16,The Matrix,1999,136,R,8.7,Warner Bros. Pictures
+tt0099685,17,Goodfellas,1990,146,R,8.7,Warner Bros.
+tt0073486,18,One Flew Over the Cuckoo's Nest,1975,133,R,8.7,United Artists
+tt0047478,19,Seven Samurai,1954,207,Not Rated,8.6,Columbia Pictures
+tt0114369,20,Se7en,1995,127,R,8.6,New Line Cinema
+tt0118799,21,Life Is Beautiful,1997,116,PG-13,8.6,Miramax
+tt0317248,22,City of God,2002,130,R,8.6,Miramax Films
+tt0102926,23,The Silence of the Lambs,1991,118,R,8.6,Orion Pictures Corporation
+tt0038650,24,It's a Wonderful Life,1946,130,Passed,8.6,Liberty Films
+tt0076759,25,Star Wars: Episode IV - A New Hope,1977,121,PG,8.6,20th Century Fox
+tt0120815,27,Saving Private Ryan,1998,169,R,8.6,Dreamworks Distribution
+tt0245429,28,Spirited Away,2001,125,PG,8.6,Walt Disney Pictures
+tt0120689,29,The Green Mile,1999,189,R,8.6,Warner Bros. Pictures
+tt0816692,30,Interstellar,2014,169,PG-13,8.6,Paramount Pictures
+tt0110413,31,Léon: The Professional,1994,110,R,8.5,Columbia Pictures
+tt0114814,32,The Usual Suspects,1995,106,R,8.5,Gramercy Pictures
+tt0056058,33,Harakiri,1962,133,Not Rated,8.7,Criterion Collection
+tt0110357,34,The Lion King,1994,88,G,8.5,Buena Vista
+tt0120586,35,American History X,1998,119,R,8.5,New Line Cinema
+tt0253474,36,The Pianist,2002,150,R,8.5,Focus Features
+tt0103064,37,Terminator 2: Judgment Day,1991,137,R,8.5,TriStar Pictures
+tt0088763,38,Back to the Future,1985,116,PG,8.5,Universal Pictures
+tt0027977,39,Modern Times,1936,87,G,8.5,United Artists
+tt0054215,40,Psycho,1960,109,R,8.5,Paramount Pictures
+tt0172495,41,Gladiator,2000,155,R,8.5,Dreamworks Distribution LLC
+tt0021749,42,City Lights,1931,87,G,8.5,United Artists
+tt0407887,43,The Departed,2006,151,R,8.5,Warner Bros. Pictures
+tt1675434,44,The Intouchables,2011,112,R,8.5,The Weinstein Company
+tt2582802,45,Whiplash,2014,106,R,8.5,Sony Pictures Classics
+tt0482571,46,The Prestige,2006,130,PG-13,8.5,Buena Vista Pictures
+tt0064116,47,Once Upon a Time in the West,1968,165,PG-13,8.5,Paramount Pictures
+tt0095327,48,Grave of the Fireflies,1988,89,Not Rated,8.5,Shinchosha Company
+tt0034583,49,Casablanca,1942,102,PG,8.5,Warner Bros. Pictures
+tt0047396,51,Rear Window,1954,112,PG,8.4,Paramount Pictures
+tt0095765,52,Cinema Paradiso,1988,155,R,8.5,Miramax Films
+tt0078748,53,Alien,1979,117,R,8.4,20th Century Fox
+tt0078788,54,Apocalypse Now,1979,147,R,8.4,United Artists
+tt0209144,55,Memento,2000,113,R,8.4,Newmarket Films
+tt0082971,56,Raiders of the Lost Ark,1981,115,PG,8.4,Paramount Pictures
+tt0032553,57,The Great Dictator,1940,125,Passed,8.4,Criterion Collection
+tt0405094,58,The Lives of Others,2006,137,R,8.4,Sony Pictures Classics
+tt1853728,59,Django Unchained,2012,165,R,8.4,The Weinstein Co.
+tt0050825,60,Paths of Glory,1957,88,Approved,8.4,United Artists
+tt0081505,61,The Shining,1980,146,R,8.4,Warner Bros. Pictures
+tt4154756,62,Avengers: Infinity War,2018,149,PG-13,8.5,Walt Disney Pictures
+tt0910970,63,WALL·E,2008,98,G,8.4,Walt Disney Pictures
+tt4633694,66,Spider-Man: Into the Spider-Verse,2018,117,PG,8.4,Sony Pictures
+tt0119698,67,Princess Mononoke,1997,134,PG-13,8.4,Miramax Films
+tt0364569,69,Oldboy,2003,120,R,8.4,Tartan Films
+tt0051201,70,Witness for the Prosecution,1957,116,Not Rated,8.4,MGM
+tt4154796,71,Avengers: Endgame,2019,181,PG-13,8.4,Marvel Studios
+tt1345836,72,The Dark Knight Rises,2012,164,PG-13,8.4,Warner Bros. Pictures
+tt0087843,73,Once Upon a Time in America,1984,229,R,8.4,Warner Home Video
+tt0090605,74,Aliens,1986,137,R,8.3,20th Century Fox
+tt2380307,76,Coco,2017,105,PG,8.4,Disney/Pixar
+tt0169547,77,American Beauty,1999,122,R,8.3,Dreamworks
+tt0112573,78,Braveheart,1995,178,R,8.3,Paramount Pictures
+tt0082096,79,Das Boot,1981,149,R,8.3,Columbia Pictures
+tt1187043,80,3 Idiots,2009,170,PG-13,8.4,Big Pictures
+tt0114709,81,Toy Story,1995,81,G,8.3,Buena Vista
+tt0057565,82,High and Low,1963,143,Not Rated,8.5,Criterion Collection
+tt0086190,85,Star Wars: Episode VI - Return of the Jedi,1983,131,PG,8.3,Twentieth Century Fox
+tt0086879,86,Amadeus,1984,160,R,8.3,Warner Bros. Pictures
+tt0105236,87,Reservoir Dogs,1992,99,R,8.3,Miramax Films
+tt0361748,88,Inglourious Basterds,2009,153,R,8.3,The Weinstein Company
+tt0119217,89,Good Will Hunting,1997,126,R,8.3,Miramax Films
+tt0062622,90,2001: A Space Odyssey,1968,149,G,8.3,Warner Bros. Pictures
+tt0052357,91,Vertigo,1958,128,PG,8.3,Paramount Pictures
+tt0180093,92,Requiem for a Dream,2000,102,R,8.3,Artisan Entertainment
+tt0022100,93,M,1931,99,Not Rated,8.3,Foremco
+tt5074352,94,Dangal,2016,161,Not Rated,8.4,Aamir Khan Productions
+tt0338013,95,Eternal Sunshine of the Spotless Mind,2004,108,R,8.3,Focus Features
+tt0033467,96,Citizen Kane,1941,119,PG,8.3,RKO Radio Pictures
+tt2106476,97,The Hunt,2012,115,R,8.3,Magnolia Pictures
+tt0093058,99,Full Metal Jacket,1987,116,R,8.3,Warner Bros.
+tt0053125,100,North by Northwest,1959,136,Approved,8.3,Turner Entertainment
+tt0066921,101,A Clockwork Orange,1971,136,R,8.3,Warner Bros.
+tt0040522,102,Bicycle Thieves,1948,89,Not Rated,8.3,ENIC
+tt0012349,103,The Kid,1921,68,Not Rated,8.3,First National Pictures Inc.
+tt0208092,104,Snatch,2000,102,R,8.3,Columbia Pictures
+tt0045152,105,Singin' in the Rain,1952,103,G,8.3,MGM
+tt0086250,106,Scarface,1983,170,R,8.3,Universal Films
+tt0075314,107,Taxi Driver,1976,114,R,8.3,Columbia Pictures
+tt0211915,108,Amélie,2001,122,R,8.3,Miramax Films
+tt0056172,109,Lawrence of Arabia,1962,228,Approved,8.3,Columbia Pictures
+tt0070735,110,The Sting,1973,129,PG,8.3,Universal Pictures
+tt0435761,111,Toy Story 3,2010,103,G,8.3,Walt Disney Pictures
+tt0017136,112,Metropolis,1927,153,Not Rated,8.3,Paramount Pictures
+tt0044741,113,Ikiru,1952,143,Not Rated,8.3,Cowboy Pictures
+tt0059578,114,For a Few Dollars More,1965,132,R,8.3,MGM Home Entertainment
+tt1832382,115,A Separation,2011,123,PG-13,8.3,Sony Pictures Classics
+tt0036775,116,Double Indemnity,1944,107,Passed,8.3,Paramount Pictures
+tt0053604,117,The Apartment,1960,125,Not Rated,8.3,United Artists
+tt1255953,118,Incendies,2010,131,R,8.3,Sony Pictures Classics
+tt0056592,119,To Kill a Mockingbird,1962,129,Approved,8.2,Universal International Pictur
+tt0097576,120,Indiana Jones and the Last Crusade,1989,127,PG-13,8.2,Paramount Pictures
+tt1049413,121,Up,2009,96,PG,8.2,Walt Disney Pictures
+tt0113277,123,Heat,1995,170,R,8.2,Warner Bros.
+tt0071853,124,Monty Python and the Holy Grail,1975,91,PG,8.2,Almi Cinema 5
+tt0095016,126,Die Hard,1988,132,R,8.2,20th Century Fox
+tt0055630,127,Yojimbo,1961,110,Not Rated,8.2,Criterion Collection
+tt0372784,128,Batman Begins,2005,140,PG-13,8.2,Warner Bros. Pictures
+tt0091251,129,Come and See,1985,142,Not Rated,8.3,Kino International
+tt0118849,131,Children of Heaven,1997,89,PG,8.3,Miramax
+tt0105695,133,Unforgiven,1992,130,R,8.2,Warner Bros. Pictures
+tt0053291,134,Some Like It Hot,1959,121,Not Rated,8.2,United Artists
+tt0347149,135,Howl's Moving Castle,2004,119,PG,8.2,Buena Vista
+tt0089881,136,Ran,1985,162,R,8.2,Rialto Pictures
+tt0057115,137,The Great Escape,1963,172,Not Rated,8.2,United Artists
+tt0042192,138,All About Eve,1950,138,Passed,8.2,20th Century Fox
+tt0268978,139,A Beautiful Mind,2001,135,PG-13,8.2,Universal Pictures
+tt0112641,140,Casino,1995,178,R,8.2,Universal Pictures
+tt0457430,141,Pan's Labyrinth,2006,118,R,8.2,Picturehouse
+tt0096283,142,My Neighbor Totoro,1988,86,G,8.2,Tokuma Shoten
+tt1305806,143,The Secret in Their Eyes,2009,129,R,8.2,Sony Pictures Classics
+tt0081398,144,Raging Bull,1980,129,R,8.2,United Artists
+tt0120735,145,"Lock, Stock and Two Smoking Barrels",1998,107,R,8.2,Gramercy Pictures
+tt0993846,146,The Wolf of Wall Street,2013,180,R,8.2,Paramount Studios
+tt0055031,147,Judgment at Nuremberg,1961,179,Not Rated,8.2,United Artists
+tt0040897,148,The Treasure of the Sierra Madre,1948,126,Passed,8.2,WARNER BROTHERS PICTURES
+tt0469494,149,There Will Be Blood,2007,158,R,8.2,Paramount Vantage
+tt0071315,153,Chinatown,1974,130,R,8.2,Paramount Pictures
+tt0046912,154,Dial M for Murder,1954,105,PG,8.2,Warner Bros. Pictures
+tt0434409,155,V for Vendetta,2005,132,R,8.2,Warner Bros. Pictures
+tt0050976,156,The Seventh Seal,1957,96,Not Rated,8.2,Janus Films
+tt0477348,157,No Country for Old Men,2007,122,R,8.1,Miramax Films
+tt2096673,158,Inside Out,2015,95,PG,8.2,Disney/Pixar
+tt1291584,159,Warrior,2011,140,PG-13,8.2,Lionsgate
+tt1130884,160,Shutter Island,2010,138,R,8.1,Paramount Studios
+tt0117951,161,Trainspotting,1996,93,R,8.1,Miramax Films
+tt0080678,162,The Elephant Man,1980,124,PG,8.1,Paramount
+tt0167404,163,The Sixth Sense,1999,107,PG-13,8.1,Hollywood/Buena Vista
+tt0084787,164,The Thing,1982,109,R,8.1,Universal Pictures
+tt0031381,165,Gone with the Wind,1939,238,Passed,8.1,Loew&#39;s Inc.
+tt3170832,166,Room,2015,118,R,8.1,Element Pictures
+tt0107290,167,Jurassic Park,1993,127,PG-13,8.1,Universal Pictures
+tt0050986,168,Wild Strawberries,1957,91,Not Rated,8.2,Janus Films
+tt0083658,169,Blade Runner,1982,117,R,8.1,Warner Bros. Pictures
+tt0050212,170,The Bridge on the River Kwai,1957,161,PG,8.1,Columbia Pictures
+tt0266543,171,Finding Nemo,2003,100,G,8.1,Walt Disney Pictures
+tt0079944,172,Stalker,1979,162,Not Rated,8.2,Zweites Deutsches Fernsehen
+tt0047296,173,On the Waterfront,1954,108,Not Rated,8.1,Sony Pictures
+tt0116282,175,Fargo,1996,98,R,8.1,Gramercy Pictures
+tt0120382,177,The Truman Show,1998,103,PG,8.1,Paramount Pictures
+tt1205489,178,Gran Torino,2008,116,R,8.1,Warner Bros. Pictures/Village Roadshow
+tt0046438,179,Tokyo Story,1953,136,Not Rated,8.2,BFI Production
+tt0077416,180,The Deer Hunter,1978,183,R,8.1,Universal Pictures
+tt0353969,181,Memories of Murder,2003,132,Not Rated,8.1,Houston Lady Productions
+tt8108198,184,Andhadhun,2018,139,Not Rated,8.3,Viacom 18 Motion Pictures
+tt0118715,186,The Big Lebowski,1998,117,R,8.1,Gramercy Pictures
+tt0978762,187,Mary and Max,2009,92,Not Rated,8.1,IFC Films
+tt0107207,188,In the Name of the Father,1993,133,R,8.1,Universal Pictures
+tt2267998,189,Gone Girl,2014,149,R,8.1,20th Century Fox
+tt0035446,191,To Be or Not to Be,1942,99,Passed,8.3,United Artists
+tt2278388,192,The Grand Budapest Hotel,2014,99,R,8.1,Fox Searchlight
+tt0060827,194,Persona,1966,83,Not Rated,8.1,Criterion Collection
+tt0112471,195,Before Sunrise,1995,101,R,8.1,Sony Pictures
+tt0264464,196,Catch Me If You Can,2002,141,PG-13,8.1,DreamWorks SKG
+tt0892769,197,How to Train Your Dragon,2010,98,PG,8.1,Paramount/DWA
+tt0017925,198,The General,1926,67,Passed,8.1,United Artists Films
+tt1392214,201,Prisoners,2013,153,R,8.1,Warner Bros.
+tt2024544,202,12 Years a Slave,2013,134,R,8.1,Fox Searchlight
+tt0061512,203,Cool Hand Luke,1967,127,GP,8.1,Warner Bros.
+tt1392190,204,Mad Max: Fury Road,2015,120,R,8.1,Warner Bros.
+tt0072684,205,Barry Lyndon,1975,185,PG,8.1,Warner Bros.
+tt0074958,206,Network,1976,121,R,8.1,MGM/United Artists
+tt0046268,207,The Wages of Fear,1953,131,Not Rated,8.1,Janus Films
+tt0092005,208,Stand by Me,1986,89,R,8.1,MCA Universal Home Video
+tt0758758,209,Into the Wild,2007,148,R,8.1,Paramount Vantage
+tt0405159,210,Million Dollar Baby,2004,132,PG-13,8.1,Warner Bros. Pictures
+tt0079470,211,Monty Python's Life of Brian,1979,94,R,8.1,Warner Bros. Pictures
+tt1028532,212,Hachi: A Dog's Tale,2009,93,G,8.1,Inferno Entertainment
+tt0091763,213,Platoon,1986,120,R,8.1,Orion Pictures
+tt0052618,214,Ben-Hur,1959,212,G,8.1,MGM
+tt1979320,215,Rush,2013,123,R,8.1,Universal Pictures
+tt0097165,218,Dead Poets Society,1989,128,PG,8.1,Buena Vista Pictures
+tt1201607,219,Harry Potter and the Deathly Hallows: Part 2,2011,130,PG-13,8.1,Warner Bros. Pictures
+tt0060107,220,Andrei Rublev,1966,205,R,8.2,Criterion Collection
+tt0053198,221,The 400 Blows,1959,99,Not Rated,8.1,Zenith International Films
+tt0395169,222,Hotel Rwanda,2004,121,PG-13,8.1,MGM
+tt0245712,223,Amores Perros,2000,154,R,8.1,Lionsgate
+tt1895587,225,Spotlight,2015,129,R,8.1,Open Road Films
+tt0087544,226,Nausicaä of the Valley of the Wind,1984,117,PG,8.1,Starmaker Entertainment
+tt4016934,227,The Handmaiden,2016,145,Not Rated,8.1,CJ Entertainment
+tt0075148,229,Rocky,1976,120,PG,8.1,United Artists
+tt0032976,230,Rebecca,1940,130,Approved,8.1,United Artists
+tt0113247,232,La Haine,1995,98,Not Rated,8.1,Criterion Collection
+tt0025316,233,It Happened One Night,1934,105,Approved,8.1,Sony Pictures Home Entertainment
+tt1954470,234,Gangs of Wasseypur,2012,321,Not Rated,8.2,Studio 18
+tt0118694,235,In the Mood for Love,2000,98,PG,8.1,USA Films
+tt0381681,236,Before Sunset,2004,80,R,8.0,Warner Independent Pictures
+tt0093779,237,The Princess Bride,1987,98,PG,8.1,20th Century Fox
+tt1454029,238,The Help,2011,146,PG-13,8.1,DreamWorks Studios
+tt0087884,239,"Paris, Texas",1984,145,R,8.1,20th Century Fox
+tt0088247,242,The Terminator,1984,107,R,8.0,Orion Pictures Corporation
+tt0043338,243,Ace in the Hole,1951,111,Approved,8.1,Paramount Pictures
+tt0169102,245,Lagaan: Once Upon a Time in India,2001,224,PG,8.1,B4U Entertainment
+tt0064115,246,Butch Cassidy and the Sundance Kid,1969,110,PG,8.0,20th Century Fox
+tt0103639,247,Aladdin,1992,90,G,8.0,Walt Disney Pictures
+tt2338151,248,PK,2014,153,Not Rated,8.1,UTV Communications
+tt0094625,249,Akira,1988,124,R,8.0,Streamline Pictures
+tt0050613,250,Throne of Blood,1957,110,Not Rated,8.1,Media Home Entertainment

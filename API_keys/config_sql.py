@@ -1,0 +1,4 @@
+
+password = 'ENTER YOUR PASSWORD'
+
+database = 'ENTER DATABASE NAME'
