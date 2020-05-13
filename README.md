@@ -38,21 +38,22 @@ The following Data Sources were used below:
 
 
 ## Project Report
-[Project Report document](./Project_Report.pdf)
+ **[Project Report document]**(./Project_Report.pdf)
+
 
 - **E**xtract: 
     - `Google scraping.ipynb`: 
         - contains IMDB website and Google Search Engine Webscraping
     - `netflix_high_imdb_rated(uNoGS api).ipynb`:
-        - contains IMDB website Webscraping, OMDb API, and uNoGS API
+        - contains IMDB website Webscraping, OMDb API, and uNoGS API extraction
     -  `streaming_options(utelly api).ipynb`:
-        - contains Utelly API
+        - contains Utelly API extraction
 
 - **T**ransform:
     - `Transform.ipynb`:
         - contains all datasets that were transformed into nine tables
 
-- **L**oad: the final database, tables/collections, and why this was chosen.
+- **L**oad:
     - `SQL` folder:
         - contains ERD and schema
     - `SQL_Table` folder:
