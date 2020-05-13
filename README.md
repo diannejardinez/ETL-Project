@@ -55,6 +55,6 @@ The following Data Sources were used below:
     - `SQL` folder:
         - contains ERD and schema
     - `SQL_Table` folder:
-        - contains all nine tables created in pgAdmin with PostgreSQL
+        - contains the creation of and all nine tables created in pgAdmin with PostgreSQL
     - [Project Report document](https://github.com/Latha-G/ETL-Project/blob/master/Project%20Report.pdf):
         - contains detailed project description and sample PostgreSQL queries in pgAdmin
