@@ -38,7 +38,7 @@ The following Data Sources were used below:
 
 
 ## Project Report
- **[Project Report document](./Project_Report.pdf)**
+ [Project Report document](./Project_Report.pdf)
 
 
 - **E**xtract: 
@@ -58,5 +58,5 @@ The following Data Sources were used below:
         - contains ERD and schema
     - `SQL_Table` folder:
         - contains all nine tables created in pgAdmin with PostgreSQL
-    - Project Report:
+    - [Project Report document](./Project_Report.pdf):
         - contains sample queries 
